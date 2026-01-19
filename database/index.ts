@@ -1,2 +1,4 @@
-export { Event } from './event.model';
-export { Booking } from './booking.model';
+import Event from './event.model';
+import Booking from './booking.model';
+
+export { Event, Booking };
